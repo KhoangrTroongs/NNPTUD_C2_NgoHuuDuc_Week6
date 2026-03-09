@@ -1,1 +1,2 @@
-# NNPTUD_C2_NgoHuuDuc_Week6
+# Họ và tên: Ngô Hữu Đức
+# MSSV: 2280600725
